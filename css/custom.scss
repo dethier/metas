@@ -1,0 +1,28 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+// Add your styles here
+$textColor: #ddd;
+$logoBlue: #0054A6;
+$green: #398640;
+$blue: #339abb;
+$lightGreen: #99bf40;
+
+a {
+  color: $blue;
+  &:visited {
+    color: $blue;
+  }
+  &:hover {
+    color: $green;
+  }
+  &:active, &:focus {
+    color: $green;
+    text-decoration: underline;
+  }
+}
+
+h2 {
+  color: $green
+}
