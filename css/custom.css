@@ -1,0 +1,12 @@
+a {
+  color: #339abb; }
+  a:visited {
+    color: #339abb; }
+  a:hover {
+    color: #398640; }
+  a:active, a:focus {
+    color: #398640;
+    text-decoration: underline; }
+
+h2 {
+  color: #398640; }
