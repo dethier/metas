@@ -32,10 +32,11 @@ Fases del Proyecto METAS</p>
 <li>  <strong> Componente 4: “Alianzas Estratégicas que Generan Oportunidades de Empleo y Mejoran la Empleabilidad de Jóvenes Beneficiarios de Proyecto METAS” </strong> tuvo como objetivo establecer alianzas estratégicas que contribuyeran a alinear la educación con las necesidades del sector laboral, mejorando las oportunidades de empleo para los y las jóvenes. Durante las fases 2 y 3, se puso énfasis en fortalecer estas alianzas con el sector privado para lograr mayores oportunidades de inserción laboral para los y las jóvenes. </li>
 </ul>  
 <h3>Resultados: </h3>
+<div style="float: right;"><img src="imgs/result2.jpg" border="0" width="400" height="225" alt="Result2 photo from Metas project" title="Result 2"/> </div>
 <ul>
 <li>  Fortalecimiento organizacional a 12 ONGDs locales en temas como género, administración y finanzas, monitoreo y evaluación, manejo de proyectos y trabajo con jóvenes en situación de riesgo social. </li>
-<li>  Desarrollo de características de liderazgo en los y las jóvenes participantes, así como cambios positivos de actitud, a través de la formación en habilidades para la vida.</li>
-<li>  Empoderamiento de jóvenes empoderados en sus comunidades, se organizan y proyectan para ayudar a otros en los proyectos comunitarios. Además, los y las jóvenes replican con otros sus aprendizajes. </li>
+<li> Desarrollo de características de liderazgo en los y las jóvenes participantes, así como cambios positivos de actitud, a través de la formación en habilidades para la vida.</li>
+<li> Empoderamiento de jóvenes empoderados en sus comunidades, se organizan y proyectan para ayudar a otros en los proyectos comunitarios. Además, los y las jóvenes replican con otros sus aprendizajes. </li>
 <li>  Formación de Comités de Gestión Educativa - CGE, estructuras comunitarias, que fortalecieron y apoyaron la gestión educativa de los Programas Alternativos de Educación - PAE.</li>
 <li>  Formación a los y las facilitadores de los PAE a través del Diplomado en Competencias Sociales y Metodológicas.</li>
 <li>  Introducir en Honduras la certificación de reconocimiento internacional de competencias laborales básicas como herramienta para facilitar el acceso de jóvenes al mercado laboral.</li>
