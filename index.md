@@ -5,6 +5,9 @@
 layout: default
 title: Home
 ---
+
+
+
 <h2>Antecedentes</h2>
 <p>Desde la década del 2000, en Honduras, se han impulsado diversas acciones desde la cooperación internacional y la sociedad civil dirigidas a mejorar la calidad de vida del sector juvenil y combatir la falta de oportunidades educativas y laborales, con un enfoque de prevención de la violencia y reducción del empleo precario. Aunque existen enfoques diferentes en estos programas y proyectos, el factor común ha sido el desarrollo de oficios para el emprendimiento y la promoción de valores, con el objetivo de fomentar el autoempleo, reducir el riesgo de afiliación a maras y pandillas, prevenir la migración y dar oportunidades para la generación de ingresos. Sin embargo, estos programas y proyectos ejecutados se concentraron escasamente en articular el desarrollo de valores, capacidades y habilidades en los y las jóvenes con las necesidades laborales del sector privado. </p>
 <p>En este contexto, USAID otorgó a Educación Development Center, Inc. (EDC) el proyecto METAS (Mejorando la Educación para Trabajar, Aprender y Superarse) en septiembre 2010. METAS introdujo un abordaje innovador en relación a la empleabilidad juvenil, que se concentra en la certificación de competencias laborales básicas, en el desarrollo de habilidades para el trabajo, en la alineación de la educación con las necesidades del sector laboral y en la generación de alianzas estratégicas con el sector privado para brindar oportunidades de pasantías y empleo, a través de la Estrategia Puente. </p>

@@ -24,5 +24,21 @@ a {
 }
 
 h2 {
-  color: $green
+  color: $green;
+}
+
+.top-a-shadow {
+  background-color: #97C433;
+  padding: 1em 0;
+
+  p {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: $logoBlue;
+    padding: 0.83em 0 0 ;
+  }
+}
+
+.site-header {
+  border-top: 35px solid #606060;
 }
