@@ -32,7 +32,7 @@ Fases del Proyecto METAS</p>
 <li>  <strong> Componente 4: “Alianzas Estratégicas que Generan Oportunidades de Empleo y Mejoran la Empleabilidad de Jóvenes Beneficiarios de Proyecto METAS” </strong> tuvo como objetivo establecer alianzas estratégicas que contribuyeran a alinear la educación con las necesidades del sector laboral, mejorando las oportunidades de empleo para los y las jóvenes. Durante las fases 2 y 3, se puso énfasis en fortalecer estas alianzas con el sector privado para lograr mayores oportunidades de inserción laboral para los y las jóvenes. </li>
 </ul>  
 <h3>Resultados: </h3>
-<div style="float: right;"><img src="imgs/result2.jpg" border="0" width="400" height="225" alt="Result2 photo from Metas project" title="Result 2"/> </div>
+<div style="float: right; margin-left: 1.5em;"><img src="imgs/result2.jpg" border="0" width="400" height="225" alt="Result 2 photo from Metas project" title="Result 2"/> </div>
 <ul>
 <li>  Fortalecimiento organizacional a 12 ONGDs locales en temas como género, administración y finanzas, monitoreo y evaluación, manejo de proyectos y trabajo con jóvenes en situación de riesgo social. </li>
 <li> Desarrollo de características de liderazgo en los y las jóvenes participantes, así como cambios positivos de actitud, a través de la formación en habilidades para la vida.</li>
@@ -48,6 +48,7 @@ Fases del Proyecto METAS</p>
 </ul>
 
 <h3>Impactos: </h3>
+<div style="float: right; margin-left: 1.5em"><img src="imgs/result3.jpg" border="0" width="400" height="267" alt="Result 3 photo from Metas project" title="Result 3"/> </div>
 <ul>
 <li>  Más de 9,000 jóvenes capacitados en programas de formación para la juventud, en cursos tales como: habilidades para la vida, belleza y cosmetología, atención al cliente, reparación de celulares, piñatería, panadería, mercadeo, inglés, refrigeración, etc.</li>
 <li>  Más de 6,000 jóvenes completaron el año escolar en un Programa de Educación Alternativo que fue apoyado por Proyecto METAS</li>
